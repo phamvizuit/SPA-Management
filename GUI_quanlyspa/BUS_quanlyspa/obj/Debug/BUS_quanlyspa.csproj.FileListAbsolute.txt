@@ -1,0 +1,33 @@
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\BUS_quanlyspa\bin\Debug\BUS_quanlyspa.dll
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\BUS_quanlyspa\bin\Debug\BUS_quanlyspa.pdb
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\BUS_quanlyspa\bin\Debug\DAL_quanlyspa.dll
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\BUS_quanlyspa\bin\Debug\DTO_quanlyspa.dll
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\BUS_quanlyspa\bin\Debug\DAL_quanlyspa.pdb
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\BUS_quanlyspa\bin\Debug\DTO_quanlyspa.pdb
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\BUS_quanlyspa\obj\Debug\BUS_quanlyspa.csproj.AssemblyReference.cache
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\BUS_quanlyspa\obj\Debug\BUS_quanlyspa.csproj.CoreCompileInputs.cache
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\BUS_quanlyspa\obj\Debug\BUS_quanlyspa.csproj.CopyComplete
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\BUS_quanlyspa\obj\Debug\BUS_quanlyspa.dll
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\BUS_quanlyspa\obj\Debug\BUS_quanlyspa.pdb
+E:\quanlySPA\GUI_quanlyspa\BUS_quanlyspa\bin\Debug\BUS_quanlyspa.dll
+E:\quanlySPA\GUI_quanlyspa\BUS_quanlyspa\bin\Debug\BUS_quanlyspa.pdb
+E:\quanlySPA\GUI_quanlyspa\BUS_quanlyspa\bin\Debug\DAL_quanlyspa.dll
+E:\quanlySPA\GUI_quanlyspa\BUS_quanlyspa\bin\Debug\DTO_quanlyspa.dll
+E:\quanlySPA\GUI_quanlyspa\BUS_quanlyspa\bin\Debug\DAL_quanlyspa.pdb
+E:\quanlySPA\GUI_quanlyspa\BUS_quanlyspa\bin\Debug\DTO_quanlyspa.pdb
+E:\quanlySPA\GUI_quanlyspa\BUS_quanlyspa\obj\Debug\BUS_quanlyspa.csprojAssemblyReference.cache
+E:\quanlySPA\GUI_quanlyspa\BUS_quanlyspa\obj\Debug\BUS_quanlyspa.csproj.CoreCompileInputs.cache
+E:\quanlySPA\GUI_quanlyspa\BUS_quanlyspa\obj\Debug\BUS_quanlyspa.csproj.CopyComplete
+E:\quanlySPA\GUI_quanlyspa\BUS_quanlyspa\obj\Debug\BUS_quanlyspa.dll
+E:\quanlySPA\GUI_quanlyspa\BUS_quanlyspa\obj\Debug\BUS_quanlyspa.pdb
+E:\Spa Management Software\GUI_quanlyspa\BUS_quanlyspa\bin\Debug\BUS_quanlyspa.dll
+E:\Spa Management Software\GUI_quanlyspa\BUS_quanlyspa\bin\Debug\BUS_quanlyspa.pdb
+E:\Spa Management Software\GUI_quanlyspa\BUS_quanlyspa\bin\Debug\DAL_quanlyspa.dll
+E:\Spa Management Software\GUI_quanlyspa\BUS_quanlyspa\bin\Debug\DTO_quanlyspa.dll
+E:\Spa Management Software\GUI_quanlyspa\BUS_quanlyspa\bin\Debug\DAL_quanlyspa.pdb
+E:\Spa Management Software\GUI_quanlyspa\BUS_quanlyspa\bin\Debug\DTO_quanlyspa.pdb
+E:\Spa Management Software\GUI_quanlyspa\BUS_quanlyspa\obj\Debug\BUS_quanlyspa.csproj.AssemblyReference.cache
+E:\Spa Management Software\GUI_quanlyspa\BUS_quanlyspa\obj\Debug\BUS_quanlyspa.csproj.CoreCompileInputs.cache
+E:\Spa Management Software\GUI_quanlyspa\BUS_quanlyspa\obj\Debug\BUS_quanlyspa.csproj.CopyComplete
+E:\Spa Management Software\GUI_quanlyspa\BUS_quanlyspa\obj\Debug\BUS_quanlyspa.dll
+E:\Spa Management Software\GUI_quanlyspa\BUS_quanlyspa\obj\Debug\BUS_quanlyspa.pdb

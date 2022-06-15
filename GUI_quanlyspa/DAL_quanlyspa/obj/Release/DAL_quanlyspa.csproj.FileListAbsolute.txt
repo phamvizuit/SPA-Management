@@ -1,0 +1,9 @@
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\DAL_quanlyspa\bin\Release\DAL_quanlyspa.dll
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\DAL_quanlyspa\bin\Release\DAL_quanlyspa.pdb
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\DAL_quanlyspa\bin\Release\DTO_quanlyspa.dll
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\DAL_quanlyspa\bin\Release\DTO_quanlyspa.pdb
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\DAL_quanlyspa\obj\Release\DAL_quanlyspa.csproj.AssemblyReference.cache
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\DAL_quanlyspa\obj\Release\DAL_quanlyspa.csproj.CoreCompileInputs.cache
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\DAL_quanlyspa\obj\Release\DAL_quanlyspa.csproj.CopyComplete
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\DAL_quanlyspa\obj\Release\DAL_quanlyspa.dll
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\DAL_quanlyspa\obj\Release\DAL_quanlyspa.pdb

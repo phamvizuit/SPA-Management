@@ -1,0 +1,1 @@
+SQLCMD -e -s .\SQLEpress -i ./SpaManagementDB.sql

@@ -1,0 +1,105 @@
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\GUI_quanlyspa.exe
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\GUI_quanlyspa.pdb
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\BUS_quanlyspa.dll
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\DTO_quanlyspa.dll
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\BUS_quanlyspa.pdb
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\DTO_quanlyspa.pdb
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.csproj.AssemblyReference.cache
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.Properties.Resources.resources
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.csproj.GenerateResource.cache
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.csproj.CoreCompileInputs.cache
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.csproj.CopyComplete
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.exe
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.pdb
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\Bunifu_UI_v1.52.dll
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\DAL_quanlyspa.dll
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\DAL_quanlyspa.pdb
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.Form_Login.resources
+E:\quanlySPA\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\GUI_quanlyspa.exe
+E:\quanlySPA\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\GUI_quanlyspa.pdb
+E:\quanlySPA\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\BUS_quanlyspa.dll
+E:\quanlySPA\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\DTO_quanlyspa.dll
+E:\quanlySPA\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\DAL_quanlyspa.dll
+E:\quanlySPA\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\BUS_quanlyspa.pdb
+E:\quanlySPA\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\DTO_quanlyspa.pdb
+E:\quanlySPA\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\DAL_quanlyspa.pdb
+E:\quanlySPA\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.csprojAssemblyReference.cache
+E:\quanlySPA\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.Form1.resources
+E:\quanlySPA\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.Form_Home.resources
+E:\quanlySPA\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.Form_Khach_hang.resources
+E:\quanlySPA\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.Form_Lieu_trinh.resources
+E:\quanlySPA\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.Form_MYPHAM.resources
+E:\quanlySPA\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.Form_Nhan_vien.resources
+E:\quanlySPA\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.Form_Login.resources
+E:\quanlySPA\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.Form_Thiet_Bi.resources
+E:\quanlySPA\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.Properties.Resources.resources
+E:\quanlySPA\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.csproj.GenerateResource.cache
+E:\quanlySPA\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.csproj.CoreCompileInputs.cache
+E:\quanlySPA\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.csproj.CopyComplete
+E:\quanlySPA\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.exe
+E:\quanlySPA\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.pdb
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.csproj.AssemblyReference.cache
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.Form_Home.resources
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.Form_Khach_hang.resources
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.Form_Lieu_trinh.resources
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.Form_Nhan_vien.resources
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.Form_Login.resources
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.Form_Thiet_Bi.resources
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.Properties.Resources.resources
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.csproj.GenerateResource.cache
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.csproj.CoreCompileInputs.cache
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.exe
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.pdb
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\GUI_quanlyspa.exe
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\GUI_quanlyspa.pdb
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\BUS_quanlyspa.dll
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\DTO_quanlyspa.dll
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\DAL_quanlyspa.dll
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\BUS_quanlyspa.pdb
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\DTO_quanlyspa.pdb
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\DAL_quanlyspa.pdb
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\AxShockwaveFlashObjects.dll
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\CrystalDecisions.Shared.dll
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\ShockwaveFlashObjects.dll
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\stdole.dll
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.Form_Home.resources
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.Form_Hoa_don.resources
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.Form_Lieu_trinh.resources
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.Form_Khach_hang.resources
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\GUI_quanlyspa.exe.config
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\ShockwaveFlashObjects.dll
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\stdole.dll
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.csproj.SuggestedBindingRedirects.cache
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.Form_Hoa_don.resources
+E:\Spa Management Software\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.csproj.CopyComplete
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\bin\Debug\GUI_quanlyspa.exe.config
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.Form_MYPHAM.resources
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.Form_Nhan_vien.resources
+D:\PROJECT\Project Visual Studio\SPA-management-software\GUI_quanlyspa\GUI_quanlyspa\obj\Debug\GUI_quanlyspa.Form_Thiet_Bi.resources

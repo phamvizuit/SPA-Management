@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{88C97679-3B0F-471D-AB10-8536F98B356E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GUI_quanlyspa</RootNamespace>
+    <AssemblyName>GUI_quanlyspa</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\..\..\..\..\program file\bunifu_UI\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form_Hoa_don.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Hoa_don.Designer.cs">
+      <DependentUpon>Form_Hoa_don.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Home.Designer.cs">
+      <DependentUpon>Form_Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Khach_hang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Khach_hang.Designer.cs">
+      <DependentUpon>Form_Khach_hang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Lieu_trinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Lieu_trinh.Designer.cs">
+      <DependentUpon>Form_Lieu_trinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Login.Designer.cs">
+      <DependentUpon>Form_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MYPHAM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MYPHAM.Designer.cs">
+      <DependentUpon>Form_MYPHAM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Nhan_vien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Nhan_vien.Designer.cs">
+      <DependentUpon>Form_Nhan_vien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Thiet_Bi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Thiet_Bi.Designer.cs">
+      <DependentUpon>Form_Thiet_Bi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form_Hoa_don.resx">
+      <DependentUpon>Form_Hoa_don.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Home.resx">
+      <DependentUpon>Form_Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Khach_hang.resx">
+      <DependentUpon>Form_Khach_hang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Lieu_trinh.resx">
+      <DependentUpon>Form_Lieu_trinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Login.resx">
+      <DependentUpon>Form_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MYPHAM.resx">
+      <DependentUpon>Form_MYPHAM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Nhan_vien.resx">
+      <DependentUpon>Form_Nhan_vien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Thiet_Bi.resx">
+      <DependentUpon>Form_Thiet_Bi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUS_quanlyspa\BUS_quanlyspa.csproj">
+      <Project>{5b35ac26-93d7-4d6b-9670-00ac58534d08}</Project>
+      <Name>BUS_quanlyspa</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO_quanlyspa\DTO_quanlyspa.csproj">
+      <Project>{8304e0b4-7f32-4d2d-9cac-e8a012990afd}</Project>
+      <Name>DTO_quanlyspa</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\house-black-silhouette-without-door.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avatardefault_92824.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_kids_avatar_user_profile_icon_149314.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-home-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-staff-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-cosmetics-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-treatment-list-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-female-user-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-beauty-120.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-receipt-and-change-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\leftside_panel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lotus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\text_bar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin_key.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1080865.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_11080865.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background_green.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-date-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4729654.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\500_F_410384074_vjRPB5dKmLcxBdBgCImPKKNhXtV0x5Sj.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\500_F_91409194_fIhYBpGAlQyjEnaXgfzWNiqDDVtICyUh.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-user-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-lock-60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\leftside_panel1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-user-641.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-lock-601.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login_button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login_button1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\show_pw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hide_pw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hide_pw2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doctor.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
